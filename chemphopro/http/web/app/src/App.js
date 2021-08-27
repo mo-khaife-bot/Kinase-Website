@@ -16,6 +16,8 @@ import Typography from '@material-ui/core/Typography';
 
 import Home from './Home';
 import Kinase from './Kinase';
+import Protein from './Protein';
+import { Grid } from '@material-ui/core';
 
 // Set the CSS styles 
 const useStyles = makeStyles((theme) => ({
@@ -54,6 +56,9 @@ function App() {
         <Route path="/kinase">
           <Kinase />
         </Route>
+        <Route path="/protein">
+          <Protein />
+        </Route>
         <Route path="/">
           <Home />
         </Route>
@@ -63,7 +68,17 @@ function App() {
 }
 
 function About() {
-  return <h2>About</h2>;
+
+  // get the CSS classes
+  const classes = useStyles();
+
+  return <div className={classes.root}>
+    <Grid container spacing={3} justifyContent="center">
+      <Grid item xs={8}>
+        <h2>About</h2>
+      </Grid>
+    </Grid>
+  </div>
 }
 
 export default App;
