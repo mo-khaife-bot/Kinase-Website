@@ -1,0 +1,528 @@
+name	gene_name	accession	protein_fullname	family
+AKT1	AKT1_HUMAN	P31749	RAC-alpha serine/threonine-protein kinase(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. RAC subfamily.
+AKT2	AKT2_HUMAN	P31751	RAC-beta serine/threonine-protein kinase(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. RAC subfamily.
+AKT3	AKT3_HUMAN	Q9Y243	RAC-gamma serine/threonine-protein kinase(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. RAC subfamily.
+CDC42BPA	MRCKA_HUMAN	Q5VT25	Serine/threonine-protein kinase MRCK alpha(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. DMPK subfamily.
+CDC42BPB	MRCKB_HUMAN	Q9Y5S2	Serine/threonine-protein kinase MRCK beta(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. DMPK subfamily.
+CDC42BPG	MRCKG_HUMAN	Q6DT37	Serine/threonine-protein kinase MRCK gamma(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. DMPK subfamily.
+CIT	CTRO_HUMAN	O14578	Citron Rho-interacting kinase CRIK (EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+DMPK	DMPK_HUMAN	Q09013	Myotonin-protein kinase MT-PK (EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. DMPK subfamily.
+GRK1	GRK1_HUMAN	Q15835	Rhodopsin kinase GRK1 RK (EC 2.7.11.14)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. GPRK subfamily.
+GRK2	ARBK1_HUMAN	P25098	Beta-adrenergic receptor kinase 1 Beta-ARK-1 (EC 2.7.11.15)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. GPRK subfamily.
+GRK3	ARBK2_HUMAN	P35626	Beta-adrenergic receptor kinase 2 Beta-ARK-2 (EC 2.7.11.15)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. GPRK subfamily.
+GRK4	GRK4_HUMAN	P32298	G protein-coupled receptor kinase 4(EC 2.7.11.16)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. GPRK subfamily.
+GRK5	GRK5_HUMAN	P34947	G protein-coupled receptor kinase 5(EC 2.7.11.16)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. GPRK subfamily.
+GRK6	GRK6_HUMAN	P43250	G protein-coupled receptor kinase 6(EC 2.7.11.16)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. GPRK subfamily.
+GRK7	GRK7_HUMAN	Q8WTQ7	Rhodopsin kinase GRK7(EC 2.7.11.14)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. GPRK subfamily.
+LATS1	LATS1_HUMAN	O95835	Serine/threonine-protein kinase LATS1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+LATS2	LATS2_HUMAN	Q9NRM7	Serine/threonine-protein kinase LATS2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+MAST1	MAST1_HUMAN	Q9Y2H9	Microtubule-associated serine/threonine-protein kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+MAST2	MAST2_HUMAN	Q6P0Q8	Microtubule-associated serine/threonine-protein kinase 2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+MAST3	MAST3_HUMAN	O60307	Microtubule-associated serine/threonine-protein kinase 3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+MAST4	MAST4_HUMAN	O15021	Microtubule-associated serine/threonine-protein kinase 4(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+MASTL	GWL_HUMAN	Q96GX5	Serine/threonine-protein kinase greatwall GW (EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+PDPK1	PDPK1_HUMAN	O15530	3-phosphoinositide-dependent protein kinase 1 hPDK1 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PDPK1 subfamily.
+PDPK2P	PDPK2_HUMAN	Q6A1A2	Putative 3-phosphoinositide-dependent protein kinase 2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PDPK1 subfamily.
+PKN1	PKN1_HUMAN	Q16512	Serine/threonine-protein kinase N1(EC 2.7.11.13)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PKC subfamily.
+PKN2	PKN2_HUMAN	Q16513	Serine/threonine-protein kinase N2(EC 2.7.11.13)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PKC subfamily.
+PKN3	PKN3_HUMAN	Q6P5Z2	Serine/threonine-protein kinase N3(EC 2.7.11.13)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PKC subfamily.
+PRKACA	KAPCA_HUMAN	P17612	cAMP-dependent protein kinase catalytic subunit alpha PKA C-alpha (EC 2.7.11.11)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. cAMP subfamily.
+PRKACB	KAPCB_HUMAN	P22694	cAMP-dependent protein kinase catalytic subunit beta PKA C-beta (EC 2.7.11.11)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. cAMP subfamily.
+PRKACG	KAPCG_HUMAN	P22612	cAMP-dependent protein kinase catalytic subunit gamma PKA C-gamma (EC 2.7.11.11)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. cAMP subfamily.
+PRKCA	KPCA_HUMAN	P17252	Protein kinase C alpha type PKC-A (EC 2.7.11.13)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PKC subfamily.
+PRKCB	KPCB_HUMAN	P05771	Protein kinase C beta type PKC-B (EC 2.7.11.13)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PKC subfamily.
+PRKCD	KPCD_HUMAN	Q05655	Protein kinase C delta type(EC 2.7.11.13)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PKC subfamily.
+PRKCE	KPCE_HUMAN	Q02156	Protein kinase C epsilon type(EC 2.7.11.13)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PKC subfamily.
+PRKCG	KPCG_HUMAN	P05129	Protein kinase C gamma type PKC-gamma (EC 2.7.11.13)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PKC subfamily.
+PRKCH	KPCL_HUMAN	P24723	Protein kinase C eta type(EC 2.7.11.13)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PKC subfamily.
+PRKCI	KPCI_HUMAN	P41743	Protein kinase C iota type(EC 2.7.11.13)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PKC subfamily.
+PRKCQ	KPCT_HUMAN	Q04759	Protein kinase C theta type(EC 2.7.11.13)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PKC subfamily.
+PRKCZ	KPCZ_HUMAN	Q05513	Protein kinase C zeta type(EC 2.7.11.13)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. PKC subfamily.
+PRKG1	KGP1_HUMAN	Q13976	cGMP-dependent protein kinase 1 cGK 1 (EC 2.7.11.12)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. cGMP subfamily.
+PRKG2	KGP2_HUMAN	Q13237	cGMP-dependent protein kinase 2 cGK 2 (EC 2.7.11.12)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. cGMP subfamily.
+PRKX	PRKX_HUMAN	P51817	cAMP-dependent protein kinase catalytic subunit PRKX PrKX (EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. cAMP subfamily.
+PRKY	PRKY_HUMAN	O43930	Putative serine/threonine-protein kinase PRKY(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. cAMP subfamily.
+ROCK1	ROCK1_HUMAN	Q13464	Rho-associated protein kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+ROCK2	ROCK2_HUMAN	O75116	Rho-associated protein kinase 2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+RPS6KA1	KS6A1_HUMAN	Q15418	Ribosomal protein S6 kinase alpha-1 S6K-alpha-1 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. S6 kinase subfamily.
+RPS6KA2	KS6A2_HUMAN	Q15349	Ribosomal protein S6 kinase alpha-2 S6K-alpha-2 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. S6 kinase subfamily.
+RPS6KA3	KS6A3_HUMAN	P51812	Ribosomal protein S6 kinase alpha-3 S6K-alpha-3 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. S6 kinase subfamily.
+RPS6KA4	KS6A4_HUMAN	O75676	Ribosomal protein S6 kinase alpha-4 S6K-alpha-4 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. S6 kinase subfamily.
+RPS6KA5	KS6A5_HUMAN	O75582	Ribosomal protein S6 kinase alpha-5 S6K-alpha-5 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. S6 kinase subfamily.
+RPS6KA6	KS6A6_HUMAN	Q9UK32	Ribosomal protein S6 kinase alpha-6 S6K-alpha-6 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. S6 kinase subfamily.
+RPS6KB1	KS6B1_HUMAN	P23443	Ribosomal protein S6 kinase beta-1 S6K-beta-1 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. S6 kinase subfamily.
+RPS6KB2	KS6B2_HUMAN	Q9UBS0	Ribosomal protein S6 kinase beta-2 S6K-beta-2 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family. S6 kinase subfamily.
+SGK1	SGK1_HUMAN	O00141	Serine/threonine-protein kinase Sgk1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+SGK2	SGK2_HUMAN	Q9HBY8	Serine/threonine-protein kinase Sgk2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+SGK3	SGK3_HUMAN	Q96BR1	Serine/threonine-protein kinase Sgk3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+STK38	STK38_HUMAN	Q15208	Serine/threonine-protein kinase 38(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+STK38L	ST38L_HUMAN	Q9Y2H1	Serine/threonine-protein kinase 38-like(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+None	ST38L_HUMAN	Q9Y2H1	Serine/threonine-protein kinase 38-like(EC 2.7.11.1)	Belongs to the protein kinase superfamily. AGC Ser/Thr protein kinase family.
+BRSK1	BRSK1_HUMAN	Q8TDC3	Serine/threonine-protein kinase BRSK1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+BRSK2	BRSK2_HUMAN	Q8IWQ3	Serine/threonine-protein kinase BRSK2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+CAMK1	KCC1A_HUMAN	Q14012	Calcium/calmodulin-dependent protein kinase type 1(EC 2.7.11.17)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+CAMK1D	KCC1D_HUMAN	Q8IU85	Calcium/calmodulin-dependent protein kinase type 1D(EC 2.7.11.17)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+CAMK1G	KCC1G_HUMAN	Q96NX5	Calcium/calmodulin-dependent protein kinase type 1G(EC 2.7.11.17)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+CAMK2A	KCC2A_HUMAN	Q9UQM7	Calcium/calmodulin-dependent protein kinase type II subunit alpha CaM kinase II subunit alpha (EC 2.7.11.17)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+CAMK2B	KCC2B_HUMAN	Q13554	Calcium/calmodulin-dependent protein kinase type II subunit beta CaM kinase II subunit beta (EC 2.7.11.17)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+CAMK2D	KCC2D_HUMAN	Q13557	Calcium/calmodulin-dependent protein kinase type II subunit delta CaM kinase II subunit delta (EC 2.7.11.17)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+CAMK2G	KCC2G_HUMAN	Q13555	Calcium/calmodulin-dependent protein kinase type II subunit gamma CaM kinase II subunit gamma (EC 2.7.11.17)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+CAMK4	KCC4_HUMAN	Q16566	Calcium/calmodulin-dependent protein kinase type IV CaMK IV (EC 2.7.11.17)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+CAMKV	CAMKV_HUMAN	Q8NCB2	CaM kinase-like vesicle-associated protein	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+CASK	CSKP_HUMAN	O14936	Peripheral plasma membrane protein CASK hCASK (EC 2.7.11.1)	In the N-terminal section; belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+CHEK1	CHK1_HUMAN	O14757	Serine/threonine-protein kinase Chk1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. NIM1 subfamily.
+CHEK2	CHK2_HUMAN	O96017	Serine/threonine-protein kinase Chk2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CHK2 subfamily.
+DAPK1	DAPK1_HUMAN	P53355	Death-associated protein kinase 1 DAP kinase 1 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. DAP kinase subfamily.
+DAPK2	DAPK2_HUMAN	Q9UIK4	Death-associated protein kinase 2 DAP kinase 2 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. DAP kinase subfamily.
+DAPK3	DAPK3_HUMAN	O43293	Death-associated protein kinase 3 DAP kinase 3 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. DAP kinase subfamily.
+DCLK1	DCLK1_HUMAN	O15075	Serine/threonine-protein kinase DCLK1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+DCLK2	DCLK2_HUMAN	Q8N568	Serine/threonine-protein kinase DCLK2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+DCLK3	DCLK3_HUMAN	Q9C098	Serine/threonine-protein kinase DCLK3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+Gm4922	DCLK3_HUMAN	Q9C098	Serine/threonine-protein kinase DCLK3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+Gm7168	DCLK3_HUMAN	Q9C098	Serine/threonine-protein kinase DCLK3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+HUNK	HUNK_HUMAN	P57058	Hormonally up-regulated neu tumor-associated kinase(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+KALRN	KALRN_HUMAN	O60229	Kalirin(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+MAPKAPK2	MAPK2_HUMAN	P49137	MAP kinase-activated protein kinase 2 MAPK-activated protein kinase 2 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+MAPKAPK3	MAPK3_HUMAN	Q16644	MAP kinase-activated protein kinase 3 MAPK-activated protein kinase 3 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+MAPKAPK5	MAPK5_HUMAN	Q8IW41	MAP kinase-activated protein kinase 5 MAPK-activated protein kinase 5 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+MARK1	MARK1_HUMAN	Q9P0L2	Serine/threonine-protein kinase MARK1(EC 2.7.11.1) (EC 2.7.11.26)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+MARK2	MARK2_HUMAN	Q7KZI7	Serine/threonine-protein kinase MARK2(EC 2.7.11.1) (EC 2.7.11.26)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+MARK3	MARK3_HUMAN	P27448	MAP/microtubule affinity-regulating kinase 3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+MARK4	MARK4_HUMAN	Q96L34	MAP/microtubule affinity-regulating kinase 4(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+MELK	MELK_HUMAN	Q14680	Maternal embryonic leucine zipper kinase hMELK (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+MKNK1	MKNK1_HUMAN	Q9BUB5	MAP kinase-interacting serine/threonine-protein kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+MKNK2	MKNK2_HUMAN	Q9HBH9	MAP kinase-interacting serine/threonine-protein kinase 2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+MYLK	MYLK_HUMAN	Q15746	Myosin light chain kinase, smooth muscle MLCK (EC 2.7.11.18)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+MYLK2	MYLK2_HUMAN	Q9H1R3	Myosin light chain kinase 2, skeletal/cardiac muscle MLCK2 (EC 2.7.11.18)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+MYLK3	MYLK3_HUMAN	Q32MK0	Myosin light chain kinase 3(EC 2.7.11.18)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+MYLK4	MYLK4_HUMAN	Q86YV6	Myosin light chain kinase family member 4(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+NIM1K	NIM1_HUMAN	Q8IY84	Serine/threonine-protein kinase NIM1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+NUAK1	NUAK1_HUMAN	O60285	NUAK family SNF1-like kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+NUAK2	NUAK2_HUMAN	Q9H093	NUAK family SNF1-like kinase 2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+OBSCN	OBSCN_HUMAN	Q5VST9	Obscurin(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+PASK	PASK_HUMAN	Q96RG2	PAS domain-containing serine/threonine-protein kinase PAS-kinase (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+PHKG1	PHKG1_HUMAN	Q16816	Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform PHK-gamma-M (EC 2.7.11.19)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+PHKG2	PHKG2_HUMAN	P15735	Phosphorylase b kinase gamma catalytic chain, liver/testis isoform PHK-gamma-LT (EC 2.7.11.19)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+PIM1	PIM1_HUMAN	P11309	Serine/threonine-protein kinase pim-1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. PIM subfamily.
+PIM2	PIM2_HUMAN	Q9P1W9	Serine/threonine-protein kinase pim-2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. PIM subfamily.
+PIM3	PIM3_HUMAN	Q86V86	Serine/threonine-protein kinase pim-3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. PIM subfamily.
+PNCK	KCC1B_HUMAN	Q6P2M8	Calcium/calmodulin-dependent protein kinase type 1B(EC 2.7.11.17)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+PRKAA1	AAPK1_HUMAN	Q13131	5'-AMP-activated protein kinase catalytic subunit alpha-1 AMPK subunit alpha-1 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+PRKAA2	AAPK2_HUMAN	P54646	5'-AMP-activated protein kinase catalytic subunit alpha-2 AMPK subunit alpha-2 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+PRKD1	KPCD1_HUMAN	Q15139	Serine/threonine-protein kinase D1(EC 2.7.11.13)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. PKD subfamily.
+PRKD2	KPCD2_HUMAN	Q9BZL6	Serine/threonine-protein kinase D2(EC 2.7.11.13)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. PKD subfamily.
+PRKD3	KPCD3_HUMAN	O94806	Serine/threonine-protein kinase D3(EC 2.7.11.13)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. PKD subfamily.
+PSKH1	KPSH1_HUMAN	P11801	Serine/threonine-protein kinase H1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+PSKH2	KPSH2_HUMAN	Q96QS6	Serine/threonine-protein kinase H2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+SIK1	SIK1_HUMAN	P57059	Serine/threonine-protein kinase SIK1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. AMPK subfamily.
+SIK1B	SIK1B_HUMAN	A0A0B4J2F2	Probable serine/threonine-protein kinase SIK1B(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. AMPK subfamily.
+SIK2	SIK2_HUMAN	Q9H0K1	Serine/threonine-protein kinase SIK2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+SIK3	SIK3_HUMAN	Q9Y2K2	Serine/threonine-protein kinase SIK3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. SNF1 subfamily.
+SNRK	SNRK_HUMAN	Q9NRH2	SNF-related serine/threonine-protein kinase(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+SPEG	SPEG_HUMAN	Q15772	Striated muscle preferentially expressed protein kinase(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+STK11	STK11_HUMAN	Q15831	Serine/threonine-protein kinase STK11(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. LKB1 subfamily.
+STK17A	ST17A_HUMAN	Q9UEE5	Serine/threonine-protein kinase 17A(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. DAP kinase subfamily.
+STK17B	ST17B_HUMAN	O94768	Serine/threonine-protein kinase 17B(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. DAP kinase subfamily.
+STK33	STK33_HUMAN	Q9BYT3	Serine/threonine-protein kinase 33(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. CaMK subfamily.
+STK40	STK40_HUMAN	Q8N2I9	Serine/threonine-protein kinase 40(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+Smok2a	STK40_HUMAN	Q8N2I9	Serine/threonine-protein kinase 40(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+Smok2b	STK40_HUMAN	Q8N2I9	Serine/threonine-protein kinase 40(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+Smok3a	STK40_HUMAN	Q8N2I9	Serine/threonine-protein kinase 40(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+Smok3b	STK40_HUMAN	Q8N2I9	Serine/threonine-protein kinase 40(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+Stk-ps2	STK40_HUMAN	Q8N2I9	Serine/threonine-protein kinase 40(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+TRIB1	TRIB1_HUMAN	Q96RU8	Tribbles homolog 1 TRB-1 	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. Tribbles subfamily.
+TRIB2	TRIB2_HUMAN	Q92519	Tribbles homolog 2 TRB-2 	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. Tribbles subfamily.
+TRIB3	TRIB3_HUMAN	Q96RU7	Tribbles homolog 3 TRB-3 	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family. Tribbles subfamily.
+TRIO	TRIO_HUMAN	O75962	Triple functional domain protein(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+TSSK1B	TSSK1_HUMAN	Q9BXA7	Testis-specific serine/threonine-protein kinase 1 TSK-1 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+TSSK2	TSSK2_HUMAN	Q96PF2	Testis-specific serine/threonine-protein kinase 2 TSK-2 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+TSSK3	TSSK3_HUMAN	Q96PN8	Testis-specific serine/threonine-protein kinase 3 TSK-3 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+TSSK4	TSSK4_HUMAN	Q6SA08	Testis-specific serine/threonine-protein kinase 4 TSK-4 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+TSSK6	TSSK6_HUMAN	Q9BXA6	Testis-specific serine/threonine-protein kinase 6 TSK-6 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+TTN	TITIN_HUMAN	Q8WZ42	Titin(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+Tssk5	TITIN_HUMAN	Q8WZ42	Titin(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CAMK Ser/Thr protein kinase family.
+CSNK1A1	KC1A_HUMAN	P48729	Casein kinase I isoform alpha CKI-alpha (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. Casein kinase I subfamily.
+CSNK1A1L	KC1AL_HUMAN	Q8N752	Casein kinase I isoform alpha-like CKI-alpha-like (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. Casein kinase I subfamily.
+CSNK1D	KC1D_HUMAN	P48730	Casein kinase I isoform delta CKI-delta (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. Casein kinase I subfamily.
+CSNK1E	KC1E_HUMAN	P49674	Casein kinase I isoform epsilon CKI-epsilon (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. Casein kinase I subfamily.
+CSNK1G1	KC1G1_HUMAN	Q9HCP0	Casein kinase I isoform gamma-1 CKI-gamma 1 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. Casein kinase I subfamily.
+CSNK1G2	KC1G2_HUMAN	P78368	Casein kinase I isoform gamma-2 CKI-gamma 2 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. Casein kinase I subfamily.
+CSNK1G3	KC1G3_HUMAN	Q9Y6M4	Casein kinase I isoform gamma-3 CKI-gamma 3 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. Casein kinase I subfamily.
+TTBK1	TTBK1_HUMAN	Q5TCY1	Tau-tubulin kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family.
+TTBK2	TTBK2_HUMAN	Q6IQ55	Tau-tubulin kinase 2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family.
+VRK1	VRK1_HUMAN	Q99986	Serine/threonine-protein kinase VRK1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. VRK subfamily.
+VRK2	VRK2_HUMAN	Q86Y07	Serine/threonine-protein kinase VRK2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. VRK subfamily.
+VRK3	VRK3_HUMAN	Q8IV63	Inactive serine/threonine-protein kinase VRK3	Belongs to the protein kinase superfamily. CK1 Ser/Thr protein kinase family. VRK subfamily.
+CDK1	CDK1_HUMAN	P06493	Cyclin-dependent kinase 1 CDK1 (EC 2.7.11.22) (EC 2.7.11.23)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK10	CDK10_HUMAN	Q15131	Cyclin-dependent kinase 10(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK11A	CD11A_HUMAN	Q9UQ88	Cyclin-dependent kinase 11A(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK11B	CD11B_HUMAN	P21127	Cyclin-dependent kinase 11B(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK12	CDK12_HUMAN	Q9NYV4	Cyclin-dependent kinase 12(EC 2.7.11.22) (EC 2.7.11.23)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK13	CDK13_HUMAN	Q14004	Cyclin-dependent kinase 13(EC 2.7.11.22) (EC 2.7.11.23)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK14	CDK14_HUMAN	O94921	Cyclin-dependent kinase 14(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK15	CDK15_HUMAN	Q96Q40	Cyclin-dependent kinase 15(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK16	CDK16_HUMAN	Q00536	Cyclin-dependent kinase 16(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK17	CDK17_HUMAN	Q00537	Cyclin-dependent kinase 17(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK18	CDK18_HUMAN	Q07002	Cyclin-dependent kinase 18(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK19	CDK19_HUMAN	Q9BWU1	Cyclin-dependent kinase 19(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK2	CDK2_HUMAN	P24941	Cyclin-dependent kinase 2(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK20	CDK20_HUMAN	Q8IZL9	Cyclin-dependent kinase 20(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK3	CDK3_HUMAN	Q00526	Cyclin-dependent kinase 3(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK4	CDK4_HUMAN	P11802	Cyclin-dependent kinase 4(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK5	CDK5_HUMAN	Q00535	Cyclin-dependent-like kinase 5(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK6	CDK6_HUMAN	Q00534	Cyclin-dependent kinase 6(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK7	CDK7_HUMAN	P50613	Cyclin-dependent kinase 7(EC 2.7.11.22) (EC 2.7.11.23)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK8	CDK8_HUMAN	P49336	Cyclin-dependent kinase 8(EC 2.7.11.22) (EC 2.7.11.23)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDK9	CDK9_HUMAN	P50750	Cyclin-dependent kinase 9(EC 2.7.11.22) (EC 2.7.11.23)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDKL1	CDKL1_HUMAN	Q00532	Cyclin-dependent kinase-like 1(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDKL2	CDKL2_HUMAN	Q92772	Cyclin-dependent kinase-like 2(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDKL3	CDKL3_HUMAN	Q8IVW4	Cyclin-dependent kinase-like 3(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDKL4	CDKL4_HUMAN	Q5MAI5	Cyclin-dependent kinase-like 4(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CDKL5	CDKL5_HUMAN	O76039	Cyclin-dependent kinase-like 5(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CILK1	CILK1_HUMAN	Q9UPZ9	Serine/threonine-protein kinase ICK(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+CLK1	CLK1_HUMAN	P49759	Dual specificity protein kinase CLK1(EC 2.7.12.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. Lammer subfamily.
+CLK2	CLK2_HUMAN	P49760	Dual specificity protein kinase CLK2(EC 2.7.12.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. Lammer subfamily.
+CLK3	CLK3_HUMAN	P49761	Dual specificity protein kinase CLK3(EC 2.7.12.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. Lammer subfamily.
+CLK4	CLK4_HUMAN	Q9HAZ1	Dual specificity protein kinase CLK4(EC 2.7.12.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. Lammer subfamily.
+DYRK1A	DYR1A_HUMAN	Q13627	Dual specificity tyrosine-phosphorylation-regulated kinase 1A(EC 2.7.12.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MNB/DYRK subfamily.
+DYRK1B	DYR1B_HUMAN	Q9Y463	Dual specificity tyrosine-phosphorylation-regulated kinase 1B(EC 2.7.12.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MNB/DYRK subfamily.
+DYRK2	DYRK2_HUMAN	Q92630	Dual specificity tyrosine-phosphorylation-regulated kinase 2(EC 2.7.12.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MNB/DYRK subfamily.
+DYRK3	DYRK3_HUMAN	O43781	Dual specificity tyrosine-phosphorylation-regulated kinase 3(EC 2.7.12.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MNB/DYRK subfamily.
+DYRK4	DYRK4_HUMAN	Q9NR20	Dual specificity tyrosine-phosphorylation-regulated kinase 4(EC 2.7.12.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MNB/DYRK subfamily.
+GSK3A	GSK3A_HUMAN	P49840	Glycogen synthase kinase-3 alpha GSK-3 alpha (EC 2.7.11.26)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. GSK-3 subfamily.
+GSK3B	GSK3B_HUMAN	P49841	Glycogen synthase kinase-3 beta GSK-3 beta (EC 2.7.11.26)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. GSK-3 subfamily.
+HIPK1	HIPK1_HUMAN	Q86Z02	Homeodomain-interacting protein kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. HIPK subfamily.
+HIPK2	HIPK2_HUMAN	Q9H2X6	Homeodomain-interacting protein kinase 2 hHIPk2 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. HIPK subfamily.
+HIPK3	HIPK3_HUMAN	Q9H422	Homeodomain-interacting protein kinase 3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. HIPK subfamily.
+HIPK4	HIPK4_HUMAN	Q8NE63	Homeodomain-interacting protein kinase 4(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. HIPK subfamily.
+MAK	MAK_HUMAN	P20794	Serine/threonine-protein kinase MAK(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+MAPK1	MK01_HUMAN	P28482	Mitogen-activated protein kinase 1 MAP kinase 1 (EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MAPK10	MK10_HUMAN	P53779	Mitogen-activated protein kinase 10 MAP kinase 10 (EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MAPK11	MK11_HUMAN	Q15759	Mitogen-activated protein kinase 11 MAP kinase 11 (EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MAPK12	MK12_HUMAN	P53778	Mitogen-activated protein kinase 12 MAP kinase 12 (EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MAPK13	MK13_HUMAN	O15264	Mitogen-activated protein kinase 13 MAP kinase 13 (EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MAPK14	MK14_HUMAN	Q16539	Mitogen-activated protein kinase 14 MAP kinase 14 (EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MAPK15	MK15_HUMAN	Q8TD08	Mitogen-activated protein kinase 15 MAP kinase 15 (EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MAPK3	MK03_HUMAN	P27361	Mitogen-activated protein kinase 3 MAP kinase 3 (EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MAPK4	MK04_HUMAN	P31152	Mitogen-activated protein kinase 4 MAP kinase 4 (EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MAPK6	MK06_HUMAN	Q16659	Mitogen-activated protein kinase 6 MAP kinase 6 (EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MAPK7	MK07_HUMAN	Q13164	Mitogen-activated protein kinase 7 MAP kinase 7 (EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MAPK8	MK08_HUMAN	P45983	Mitogen-activated protein kinase 8 MAP kinase 8 (EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MAPK9	MK09_HUMAN	P45984	Mitogen-activated protein kinase 9 MAP kinase 9 (EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+MOK	MOK_HUMAN	Q9UQ07	MAPK/MAK/MRK overlapping kinase(EC 2.7.11.22)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. CDC2/CDKX subfamily.
+NLK	NLK_HUMAN	Q9UBE8	Serine/threonine-protein kinase NLK(EC 2.7.11.24)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family. MAP kinase subfamily.
+PRPF4B	PRP4B_HUMAN	Q13523	Serine/threonine-protein kinase PRP4 homolog(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family.
+SRPK1	SRPK1_HUMAN	Q96SB4	SRSF protein kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family.
+SRPK2	SRPK2_HUMAN	P78362	SRSF protein kinase 2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family.
+SRPK3	SRPK3_HUMAN	Q9UPE1	SRSF protein kinase 3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. CMGC Ser/Thr protein kinase family.
+NEK1	NEK1_HUMAN	Q96PY6	Serine/threonine-protein kinase Nek1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. NEK Ser/Thr protein kinase family. NIMA subfamily.
+NEK10	NEK10_HUMAN	Q6ZWH5	Serine/threonine-protein kinase Nek10(EC 2.7.11.1)	Belongs to the protein kinase superfamily. NEK Ser/Thr protein kinase family. NIMA subfamily.
+NEK11	NEK11_HUMAN	Q8NG66	Serine/threonine-protein kinase Nek11(EC 2.7.11.1)	Belongs to the protein kinase superfamily. NEK Ser/Thr protein kinase family. NIMA subfamily.
+NEK2	NEK2_HUMAN	P51955	Serine/threonine-protein kinase Nek2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. NEK Ser/Thr protein kinase family. NIMA subfamily.
+NEK3	NEK3_HUMAN	P51956	Serine/threonine-protein kinase Nek3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. NEK Ser/Thr protein kinase family. NIMA subfamily.
+NEK4	NEK4_HUMAN	P51957	Serine/threonine-protein kinase Nek4(EC 2.7.11.1)	Belongs to the protein kinase superfamily. NEK Ser/Thr protein kinase family. NIMA subfamily.
+NEK5	NEK5_HUMAN	Q6P3R8	Serine/threonine-protein kinase Nek5(EC 2.7.11.1)	Belongs to the protein kinase superfamily. NEK Ser/Thr protein kinase family. NIMA subfamily.
+NEK6	NEK6_HUMAN	Q9HC98	Serine/threonine-protein kinase Nek6(EC 2.7.11.1)	Belongs to the protein kinase superfamily. NEK Ser/Thr protein kinase family. NIMA subfamily.
+NEK7	NEK7_HUMAN	Q8TDX7	Serine/threonine-protein kinase Nek7(EC 2.7.11.1)	Belongs to the protein kinase superfamily. NEK Ser/Thr protein kinase family. NIMA subfamily.
+NEK8	NEK8_HUMAN	Q86SG6	Serine/threonine-protein kinase Nek8(EC 2.7.11.1)	Belongs to the protein kinase superfamily. NEK Ser/Thr protein kinase family. NIMA subfamily.
+NEK9	NEK9_HUMAN	Q8TD19	Serine/threonine-protein kinase Nek9(EC 2.7.11.1)	Belongs to the protein kinase superfamily. NEK Ser/Thr protein kinase family. NIMA subfamily.
+GUCY2C	GUC2C_HUMAN	P25092	Heat-stable enterotoxin receptor STA receptor (EC 4.6.1.2)	Belongs to the adenylyl cyclase class-4/guanylyl cyclase family.
+GUCY2D	GUC2D_HUMAN	Q02846	Retinal guanylyl cyclase 1 RETGC-1 (EC 4.6.1.2)	Belongs to the adenylyl cyclase class-4/guanylyl cyclase family.
+GUCY2F	GUC2F_HUMAN	P51841	Retinal guanylyl cyclase 2 RETGC-2 (EC 4.6.1.2)	Belongs to the adenylyl cyclase class-4/guanylyl cyclase family.
+Gucy2e	GUC2F_HUMAN	P51841	Retinal guanylyl cyclase 2 RETGC-2 (EC 4.6.1.2)	Belongs to the adenylyl cyclase class-4/guanylyl cyclase family.
+Gucy2g	GUC2F_HUMAN	P51841	Retinal guanylyl cyclase 2 RETGC-2 (EC 4.6.1.2)	Belongs to the adenylyl cyclase class-4/guanylyl cyclase family.
+NPR1	ANPRA_HUMAN	P16066	Atrial natriuretic peptide receptor 1(EC 4.6.1.2)	Belongs to the adenylyl cyclase class-4/guanylyl cyclase family.
+NPR2	ANPRB_HUMAN	P20594	Atrial natriuretic peptide receptor 2(EC 4.6.1.2)	Belongs to the adenylyl cyclase class-4/guanylyl cyclase family.
+MAP2K1	MP2K1_HUMAN	Q02750	Dual specificity mitogen-activated protein kinase kinase 1 MAP kinase kinase 1 (EC 2.7.12.2)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase subfamily.
+MAP2K2	MP2K2_HUMAN	P36507	Dual specificity mitogen-activated protein kinase kinase 2 MAP kinase kinase 2 (EC 2.7.12.2)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase subfamily.
+MAP2K3	MP2K3_HUMAN	P46734	Dual specificity mitogen-activated protein kinase kinase 3 MAP kinase kinase 3 (EC 2.7.12.2)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase subfamily.
+MAP2K4	MP2K4_HUMAN	P45985	Dual specificity mitogen-activated protein kinase kinase 4 MAP kinase kinase 4 (EC 2.7.12.2)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase subfamily.
+MAP2K5	MP2K5_HUMAN	Q13163	Dual specificity mitogen-activated protein kinase kinase 5 MAP kinase kinase 5 (EC 2.7.12.2)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase subfamily.
+MAP2K6	MP2K6_HUMAN	P52564	Dual specificity mitogen-activated protein kinase kinase 6 MAP kinase kinase 6 (EC 2.7.12.2)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase subfamily.
+MAP2K7	MP2K7_HUMAN	O14733	Dual specificity mitogen-activated protein kinase kinase 7 MAP kinase kinase 7 (EC 2.7.12.2)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase subfamily.
+MAP3K1	M3K1_HUMAN	Q13233	Mitogen-activated protein kinase kinase kinase 1(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K10	M3K10_HUMAN	Q02779	Mitogen-activated protein kinase kinase kinase 10(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K11	M3K11_HUMAN	Q16584	Mitogen-activated protein kinase kinase kinase 11(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K12	M3K12_HUMAN	Q12852	Mitogen-activated protein kinase kinase kinase 12(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K13	M3K13_HUMAN	O43283	Mitogen-activated protein kinase kinase kinase 13(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K14	M3K14_HUMAN	Q99558	Mitogen-activated protein kinase kinase kinase 14(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K15	M3K15_HUMAN	Q6ZN16	Mitogen-activated protein kinase kinase kinase 15(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K19	M3K19_HUMAN	Q56UN5	Mitogen-activated protein kinase kinase kinase 19(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+MAP3K2	M3K2_HUMAN	Q9Y2U5	Mitogen-activated protein kinase kinase kinase 2(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K20	M3K20_HUMAN	Q9NYL2	Mitogen-activated protein kinase kinase kinase 20(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K21	M3K21_HUMAN	Q5TCX8	Mitogen-activated protein kinase kinase kinase 21(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K3	M3K3_HUMAN	Q99759	Mitogen-activated protein kinase kinase kinase 3(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K4	M3K4_HUMAN	Q9Y6R4	Mitogen-activated protein kinase kinase kinase 4(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K5	M3K5_HUMAN	Q99683	Mitogen-activated protein kinase kinase kinase 5(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K6	M3K6_HUMAN	O95382	Mitogen-activated protein kinase kinase kinase 6(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K7	M3K7_HUMAN	O43318	Mitogen-activated protein kinase kinase kinase 7(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K8	M3K8_HUMAN	P41279	Mitogen-activated protein kinase kinase kinase 8(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP3K9	M3K9_HUMAN	P80192	Mitogen-activated protein kinase kinase kinase 9(EC 2.7.11.25)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+MAP4K1	M4K1_HUMAN	Q92918	Mitogen-activated protein kinase kinase kinase kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+MAP4K2	M4K2_HUMAN	Q12851	Mitogen-activated protein kinase kinase kinase kinase 2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+MAP4K3	M4K3_HUMAN	Q8IVH8	Mitogen-activated protein kinase kinase kinase kinase 3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+MAP4K4	M4K4_HUMAN	O95819	Mitogen-activated protein kinase kinase kinase kinase 4(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+MAP4K5	M4K5_HUMAN	Q9Y4K4	Mitogen-activated protein kinase kinase kinase kinase 5(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+MINK1	MINK1_HUMAN	Q8N4C8	Misshapen-like kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+MYO3A	MYO3A_HUMAN	Q8NEV4	Myosin-IIIa(EC 2.7.11.1)	In the C-terminal section; belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.
+MYO3B	MYO3B_HUMAN	Q8WXR4	Myosin-IIIb(EC 2.7.11.1)	In the C-terminal section; belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family.
+NRK	NRK_HUMAN	Q7Z2Y5	Nik-related protein kinase(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+OXSR1	OXSR1_HUMAN	O95747	Serine/threonine-protein kinase OSR1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+PAK1	PAK1_HUMAN	Q13153	Serine/threonine-protein kinase PAK 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+PAK2	PAK2_HUMAN	Q13177	Serine/threonine-protein kinase PAK 2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+PAK3	PAK3_HUMAN	O75914	Serine/threonine-protein kinase PAK 3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+PAK4	PAK4_HUMAN	O96013	Serine/threonine-protein kinase PAK 4(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+PAK5	PAK5_HUMAN	Q9P286	Serine/threonine-protein kinase PAK 5(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+PAK6	PAK6_HUMAN	Q9NQU5	Serine/threonine-protein kinase PAK 6(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+PBK	TOPK_HUMAN	Q96KB5	Lymphokine-activated killer T-cell-originated protein kinase(EC 2.7.12.2)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. MAP kinase kinase subfamily.
+SLK	SLK_HUMAN	Q9H2G2	STE20-like serine/threonine-protein kinase STE20-like kinase (EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+STK10	STK10_HUMAN	O94804	Serine/threonine-protein kinase 10(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+STK24	STK24_HUMAN	Q9Y6E0	Serine/threonine-protein kinase 24(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+STK25	STK25_HUMAN	O00506	Serine/threonine-protein kinase 25(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+STK26	STK26_HUMAN	Q9P289	Serine/threonine-protein kinase 26(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+STK3	STK3_HUMAN	Q13188	Serine/threonine-protein kinase 3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+STK39	STK39_HUMAN	Q9UEW8	STE20/SPS1-related proline-alanine-rich protein kinase Ste-20-related kinase (EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+STK4	STK4_HUMAN	Q13043	Serine/threonine-protein kinase 4(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+STRADA	STRAA_HUMAN	Q7RTN6	STE20-related kinase adapter protein alpha STRAD alpha 	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+STRADB	STRAB_HUMAN	Q9C0K7	STE20-related kinase adapter protein beta STRAD beta 	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+TAOK1	TAOK1_HUMAN	Q7L7X3	Serine/threonine-protein kinase TAO1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+TAOK2	TAOK2_HUMAN	Q9UL54	Serine/threonine-protein kinase TAO2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+TAOK3	TAOK3_HUMAN	Q9H2K8	Serine/threonine-protein kinase TAO3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+TNIK	TNIK_HUMAN	Q9UKE5	TRAF2 and NCK-interacting protein kinase(EC 2.7.11.1)	Belongs to the protein kinase superfamily. STE Ser/Thr protein kinase family. STE20 subfamily.
+ACVR1	ACVR1_HUMAN	Q04771	Activin receptor type-1(EC 2.7.11.30)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.
+ACVR1B	ACV1B_HUMAN	P36896	Activin receptor type-1B(EC 2.7.11.30)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.
+ACVR1C	ACV1C_HUMAN	Q8NER5	Activin receptor type-1C(EC 2.7.11.30)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.
+ACVR2A	AVR2A_HUMAN	P27037	Activin receptor type-2A(EC 2.7.11.30)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.
+ACVR2B	AVR2B_HUMAN	Q13705	Activin receptor type-2B(EC 2.7.11.30)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.
+ACVRL1	ACVL1_HUMAN	P37023	Serine/threonine-protein kinase receptor R3 SKR3 (EC 2.7.11.30)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.
+AMHR2	AMHR2_HUMAN	Q16671	Anti-Muellerian hormone type-2 receptor(EC 2.7.11.30)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.
+ANKK1	ANKK1_HUMAN	Q8NFD2	Ankyrin repeat and protein kinase domain-containing protein 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.
+ARAF	ARAF_HUMAN	P10398	Serine/threonine-protein kinase A-Raf(EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. RAF subfamily.
+BMPR1A	BMR1A_HUMAN	P36894	Bone morphogenetic protein receptor type-1A BMP type-1A receptor (EC 2.7.11.30)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.
+BMPR1B	BMR1B_HUMAN	O00238	Bone morphogenetic protein receptor type-1B BMP type-1B receptor (EC 2.7.11.30)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.
+BMPR2	BMPR2_HUMAN	Q13873	Bone morphogenetic protein receptor type-2 BMP type-2 receptor (EC 2.7.11.30)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.
+BRAF	BRAF_HUMAN	P15056	Serine/threonine-protein kinase B-raf(EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. RAF subfamily.
+ILK	ILK_HUMAN	Q13418	Integrin-linked protein kinase(EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.
+IRAK1	IRAK1_HUMAN	P51617	Interleukin-1 receptor-associated kinase 1 IRAK-1 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. Pelle subfamily.
+IRAK2	IRAK2_HUMAN	O43187	Interleukin-1 receptor-associated kinase-like 2 IRAK-2 	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. Pelle subfamily.
+IRAK3	IRAK3_HUMAN	Q9Y616	Interleukin-1 receptor-associated kinase 3 IRAK-3 	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. Pelle subfamily.
+IRAK4	IRAK4_HUMAN	Q9NWZ3	Interleukin-1 receptor-associated kinase 4 IRAK-4 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. Pelle subfamily.
+KSR1	KSR1_HUMAN	Q8IVT5	Kinase suppressor of Ras 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.
+KSR2	KSR2_HUMAN	Q6VAB6	Kinase suppressor of Ras 2 hKSR2 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.
+LIMK1	LIMK1_HUMAN	P53667	LIM domain kinase 1 LIMK-1 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.
+LIMK2	LIMK2_HUMAN	P53671	LIM domain kinase 2 LIMK-2 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.
+LRRK1	LRRK1_HUMAN	Q38SD2	Leucine-rich repeat serine/threonine-protein kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. ROCO subfamily.
+LRRK2	LRRK2_HUMAN	Q5S007	Leucine-rich repeat serine/threonine-protein kinase 2(EC 2.7.11.1) (EC 3.6.5.-)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.
+RAF1	RAF1_HUMAN	P04049	RAF proto-oncogene serine/threonine-protein kinase(EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. RAF subfamily.
+RIPK1	RIPK1_HUMAN	Q13546	Receptor-interacting serine/threonine-protein kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.
+RIPK2	RIPK2_HUMAN	O43353	Receptor-interacting serine/threonine-protein kinase 2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.
+RIPK3	RIPK3_HUMAN	Q9Y572	Receptor-interacting serine/threonine-protein kinase 3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.
+RIPK4	RIPK4_HUMAN	P57078	Receptor-interacting serine/threonine-protein kinase 4(EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.
+TESK1	TESK1_HUMAN	Q15569	Dual specificity testis-specific protein kinase 1(EC 2.7.12.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.
+TESK2	TESK2_HUMAN	Q96S53	Dual specificity testis-specific protein kinase 2(EC 2.7.12.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family.
+TGFBR1	TGFR1_HUMAN	P36897	TGF-beta receptor type-1 TGFR-1 (EC 2.7.11.30)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.
+TGFBR2	TGFR2_HUMAN	P37173	TGF-beta receptor type-2 TGFR-2 (EC 2.7.11.30)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. TGFB receptor subfamily.
+TNNI3K	TNI3K_HUMAN	Q59H18	Serine/threonine-protein kinase TNNI3K(EC 2.7.11.1)	Belongs to the protein kinase superfamily. TKL Ser/Thr protein kinase family. MAP kinase kinase kinase subfamily.
+AATK	LMTK1_HUMAN	Q6ZMQ8	Serine/threonine-protein kinase LMTK1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family.
+ABL1	ABL1_HUMAN	P00519	Tyrosine-protein kinase ABL1(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. ABL subfamily.
+ABL2	ABL2_HUMAN	P42684	Tyrosine-protein kinase ABL2(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. ABL subfamily.
+ALK	ALK_HUMAN	Q9UM73	ALK tyrosine kinase receptor(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Insulin receptor subfamily.
+AXL	UFO_HUMAN	P30530	Tyrosine-protein kinase receptor UFO(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. AXL/UFO subfamily.
+BLK	BLK_HUMAN	P51451	Tyrosine-protein kinase Blk(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SRC subfamily.
+BMX	BMX_HUMAN	P51813	Cytoplasmic tyrosine-protein kinase BMX(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. TEC subfamily.
+BTK	BTK_HUMAN	Q06187	Tyrosine-protein kinase BTK(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. TEC subfamily.
+CSF1R	CSF1R_HUMAN	P07333	Macrophage colony-stimulating factor 1 receptor	Belongs to the protein kinase superfamily. Tyr protein kinase family. CSF-1/PDGF receptor subfamily.
+CSK	CSK_HUMAN	P41240	Tyrosine-protein kinase CSK(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. CSK subfamily.
+DDR1	DDR1_HUMAN	Q08345	Epithelial discoidin domain-containing receptor 1 Epithelial discoidin domain receptor 1 (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Insulin receptor subfamily.
+DDR2	DDR2_HUMAN	Q16832	Discoidin domain-containing receptor 2 Discoidin domain receptor 2 (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Insulin receptor subfamily.
+EGFR	EGFR_HUMAN	P00533	Epidermal growth factor receptor(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. EGF receptor subfamily.
+EPHA1	EPHA1_HUMAN	P21709	Ephrin type-A receptor 1 hEpha1 (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+EPHA10	EPHAA_HUMAN	Q5JZY3	Ephrin type-A receptor 10(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+EPHA2	EPHA2_HUMAN	P29317	Ephrin type-A receptor 2(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+EPHA3	EPHA3_HUMAN	P29320	Ephrin type-A receptor 3(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+EPHA4	EPHA4_HUMAN	P54764	Ephrin type-A receptor 4(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+EPHA5	EPHA5_HUMAN	P54756	Ephrin type-A receptor 5(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+EPHA6	EPHA6_HUMAN	Q9UF33	Ephrin type-A receptor 6(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+EPHA7	EPHA7_HUMAN	Q15375	Ephrin type-A receptor 7(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+EPHA8	EPHA8_HUMAN	P29322	Ephrin type-A receptor 8(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+EPHB1	EPHB1_HUMAN	P54762	Ephrin type-B receptor 1(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+EPHB2	EPHB2_HUMAN	P29323	Ephrin type-B receptor 2(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+EPHB3	EPHB3_HUMAN	P54753	Ephrin type-B receptor 3(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+EPHB4	EPHB4_HUMAN	P54760	Ephrin type-B receptor 4(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+EPHB6	EPHB6_HUMAN	O15197	Ephrin type-B receptor 6	Belongs to the protein kinase superfamily. Tyr protein kinase family. Ephrin receptor subfamily.
+ERBB2	ERBB2_HUMAN	P04626	Receptor tyrosine-protein kinase erbB-2(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. EGF receptor subfamily.
+ERBB3	ERBB3_HUMAN	P21860	Receptor tyrosine-protein kinase erbB-3(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. EGF receptor subfamily.
+ERBB4	ERBB4_HUMAN	Q15303	Receptor tyrosine-protein kinase erbB-4(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. EGF receptor subfamily.
+FER	FER_HUMAN	P16591	Tyrosine-protein kinase Fer(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Fes/fps subfamily.
+FES	FES_HUMAN	P07332	Tyrosine-protein kinase Fes/Fps(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Fes/fps subfamily.
+FGFR1	FGFR1_HUMAN	P11362	Fibroblast growth factor receptor 1 FGFR-1 (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Fibroblast growth factor receptor subfamily.
+FGFR2	FGFR2_HUMAN	P21802	Fibroblast growth factor receptor 2 FGFR-2 (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Fibroblast growth factor receptor subfamily.
+FGFR3	FGFR3_HUMAN	P22607	Fibroblast growth factor receptor 3 FGFR-3 (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Fibroblast growth factor receptor subfamily.
+FGFR4	FGFR4_HUMAN	P22455	Fibroblast growth factor receptor 4 FGFR-4 (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Fibroblast growth factor receptor subfamily.
+FGR	FGR_HUMAN	P09769	Tyrosine-protein kinase Fgr(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SRC subfamily.
+FLT1	VGFR1_HUMAN	P17948	Vascular endothelial growth factor receptor 1 VEGFR-1 (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. CSF-1/PDGF receptor subfamily.
+FLT3	FLT3_HUMAN	P36888	Receptor-type tyrosine-protein kinase FLT3(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. CSF-1/PDGF receptor subfamily.
+FLT4	VGFR3_HUMAN	P35916	Vascular endothelial growth factor receptor 3 VEGFR-3 (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. CSF-1/PDGF receptor subfamily.
+FRK	FRK_HUMAN	P42685	Tyrosine-protein kinase FRK(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SRC subfamily.
+FYN	FYN_HUMAN	P06241	Tyrosine-protein kinase Fyn(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SRC subfamily.
+HCK	HCK_HUMAN	P08631	Tyrosine-protein kinase HCK(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SRC subfamily.
+IGF1R	IGF1R_HUMAN	P08069	Insulin-like growth factor 1 receptor(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Insulin receptor subfamily.
+INSR	INSR_HUMAN	P06213	Insulin receptor IR (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Insulin receptor subfamily.
+INSRR	INSRR_HUMAN	P14616	Insulin receptor-related protein IRR (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Insulin receptor subfamily.
+ITK	ITK_HUMAN	Q08881	Tyrosine-protein kinase ITK/TSK(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. TEC subfamily.
+JAK1	JAK1_HUMAN	P23458	Tyrosine-protein kinase JAK1(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. JAK subfamily.
+JAK2	JAK2_HUMAN	O60674	Tyrosine-protein kinase JAK2(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. JAK subfamily.
+JAK3	JAK3_HUMAN	P52333	Tyrosine-protein kinase JAK3(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. JAK subfamily.
+KDR	VGFR2_HUMAN	P35968	Vascular endothelial growth factor receptor 2 VEGFR-2 (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. CSF-1/PDGF receptor subfamily.
+KIT	KIT_HUMAN	P10721	Mast/stem cell growth factor receptor Kit SCFR (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. CSF-1/PDGF receptor subfamily.
+LCK	LCK_HUMAN	P06239	Tyrosine-protein kinase Lck(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SRC subfamily.
+LMTK2	LMTK2_HUMAN	Q8IWU2	Serine/threonine-protein kinase LMTK2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family.
+LMTK3	LMTK3_HUMAN	Q96Q04	Serine/threonine-protein kinase LMTK3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family.
+LTK	LTK_HUMAN	P29376	Leukocyte tyrosine kinase receptor(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Insulin receptor subfamily.
+LYN	LYN_HUMAN	P07948	Tyrosine-protein kinase Lyn(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SRC subfamily.
+MATK	MATK_HUMAN	P42679	Megakaryocyte-associated tyrosine-protein kinase(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. CSK subfamily.
+MERTK	MERTK_HUMAN	Q12866	Tyrosine-protein kinase Mer(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. AXL/UFO subfamily.
+MET	MET_HUMAN	P08581	Hepatocyte growth factor receptor HGF receptor (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family.
+MST1R	RON_HUMAN	Q04912	Macrophage-stimulating protein receptor MSP receptor (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family.
+MUSK	MUSK_HUMAN	O15146	Muscle, skeletal receptor tyrosine-protein kinase(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family.
+NTRK1	NTRK1_HUMAN	P04629	High affinity nerve growth factor receptor(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Insulin receptor subfamily.
+NTRK2	NTRK2_HUMAN	Q16620	BDNF/NT-3 growth factors receptor(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Insulin receptor subfamily.
+NTRK3	NTRK3_HUMAN	Q16288	NT-3 growth factor receptor(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Insulin receptor subfamily.
+PDGFRA	PGFRA_HUMAN	P16234	Platelet-derived growth factor receptor alpha PDGF-R-alpha (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. CSF-1/PDGF receptor subfamily.
+PDGFRB	PGFRB_HUMAN	P09619	Platelet-derived growth factor receptor beta PDGF-R-beta (EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. CSF-1/PDGF receptor subfamily.
+PTK2	FAK1_HUMAN	Q05397	Focal adhesion kinase 1 FADK 1 (EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. FAK subfamily.
+PTK2B	FAK2_HUMAN	Q14289	Protein-tyrosine kinase 2-beta(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. FAK subfamily.
+PTK6	PTK6_HUMAN	Q13882	Protein-tyrosine kinase 6(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. BRK/PTK6/SIK subfamily.
+PTK7	PTK7_HUMAN	Q13308	Inactive tyrosine-protein kinase 7	Belongs to the protein kinase superfamily. Tyr protein kinase family. Insulin receptor subfamily.
+RET	RET_HUMAN	P07949	Proto-oncogene tyrosine-protein kinase receptor Ret(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family.
+ROR1	ROR1_HUMAN	Q01973	Inactive tyrosine-protein kinase transmembrane receptor ROR1	Belongs to the protein kinase superfamily. Tyr protein kinase family. ROR subfamily.
+ROR2	ROR2_HUMAN	Q01974	Tyrosine-protein kinase transmembrane receptor ROR2(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. ROR subfamily.
+ROS1	ROS1_HUMAN	P08922	Proto-oncogene tyrosine-protein kinase ROS(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Insulin receptor subfamily.
+RYK	RYK_HUMAN	P34925	Tyrosine-protein kinase RYK(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family.
+SRC	SRC_HUMAN	P12931	Proto-oncogene tyrosine-protein kinase Src(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SRC subfamily.
+SRMS	SRMS_HUMAN	Q9H3Y6	Tyrosine-protein kinase Srms(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SRC subfamily.
+STYK1	STYK1_HUMAN	Q6J9G0	Tyrosine-protein kinase STYK1(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family.
+SYK	KSYK_HUMAN	P43405	Tyrosine-protein kinase SYK(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SYK/ZAP-70 subfamily.
+Smok1	KSYK_HUMAN	P43405	Tyrosine-protein kinase SYK(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SYK/ZAP-70 subfamily.
+Smoktcr	KSYK_HUMAN	P43405	Tyrosine-protein kinase SYK(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SYK/ZAP-70 subfamily.
+TEC	TEC_HUMAN	P42680	Tyrosine-protein kinase Tec(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. TEC subfamily.
+TEK	TIE2_HUMAN	Q02763	Angiopoietin-1 receptor(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Tie subfamily.
+TIE1	TIE1_HUMAN	P35590	Tyrosine-protein kinase receptor Tie-1(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. Tie subfamily.
+TNK1	TNK1_HUMAN	Q13470	Non-receptor tyrosine-protein kinase TNK1(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family.
+TNK2	ACK1_HUMAN	Q07912	Activated CDC42 kinase 1 ACK-1 (EC 2.7.10.2) (EC 2.7.11.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family.
+TXK	TXK_HUMAN	P42681	Tyrosine-protein kinase TXK(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. TEC subfamily.
+TYK2	TYK2_HUMAN	P29597	Non-receptor tyrosine-protein kinase TYK2(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. JAK subfamily.
+TYRO3	TYRO3_HUMAN	Q06418	Tyrosine-protein kinase receptor TYRO3(EC 2.7.10.1)	Belongs to the protein kinase superfamily. Tyr protein kinase family. AXL/UFO subfamily.
+YES1	YES_HUMAN	P07947	Tyrosine-protein kinase Yes(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SRC subfamily.
+ZAP70	ZAP70_HUMAN	P43403	Tyrosine-protein kinase ZAP-70(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Tyr protein kinase family. SYK/ZAP-70 subfamily.
+AAK1	AAK1_HUMAN	Q2M2I8	AP2-associated protein kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+AURKA	AURKA_HUMAN	O14965	Aurora kinase A(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. Aurora subfamily.
+AURKB	AURKB_HUMAN	Q96GD4	Aurora kinase B(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. Aurora subfamily.
+AURKC	AURKC_HUMAN	Q9UQB9	Aurora kinase C(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. Aurora subfamily.
+BMP2K	BMP2K_HUMAN	Q9NSY1	BMP-2-inducible protein kinase BIKe (EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+BUB1	BUB1_HUMAN	O43683	Mitotic checkpoint serine/threonine-protein kinase BUB1 hBUB1 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. BUB1 subfamily.
+BUB1B	BUB1B_HUMAN	O60566	Mitotic checkpoint serine/threonine-protein kinase BUB1 beta(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. BUB1 subfamily.
+CAMKK1	KKCC1_HUMAN	Q8N5S9	Calcium/calmodulin-dependent protein kinase kinase 1 CaM-KK 1 (EC 2.7.11.17)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+CAMKK2	KKCC2_HUMAN	Q96RR4	Calcium/calmodulin-dependent protein kinase kinase 2 CaM-KK 2 (EC 2.7.11.17)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+CDC7	CDC7_HUMAN	O00311	Cell division cycle 7-related protein kinase CDC7-related kinase (EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. CDC7 subfamily.
+CHUK	IKKA_HUMAN	O15111	Inhibitor of nuclear factor kappa-B kinase subunit alpha I-kappa-B kinase alpha (EC 2.7.11.10)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. I-kappa-B kinase subfamily.
+CSNK2A1	CSK21_HUMAN	P68400	Casein kinase II subunit alpha CK II alpha (EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. CK2 subfamily.
+CSNK2A2	CSK22_HUMAN	P19784	Casein kinase II subunit alpha' CK II alpha' (EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. CK2 subfamily.
+CSNK2A3	CSK23_HUMAN	Q8NEV1	Casein kinase II subunit alpha 3 CK II alpha 3 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. CK2 subfamily.
+DSTYK	DUSTY_HUMAN	Q6XUX3	Dual serine/threonine and tyrosine protein kinase(EC 2.7.12.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+EIF2AK1	E2AK1_HUMAN	Q9BQI3	Eukaryotic translation initiation factor 2-alpha kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. GCN2 subfamily.
+EIF2AK2	E2AK2_HUMAN	P19525	Interferon-induced, double-stranded RNA-activated protein kinase(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. GCN2 subfamily.
+EIF2AK3	E2AK3_HUMAN	Q9NZJ5	Eukaryotic translation initiation factor 2-alpha kinase 3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. GCN2 subfamily.
+EIF2AK4	E2AK4_HUMAN	Q9P2K8	eIF-2-alpha kinase GCN2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. GCN2 subfamily.
+ERN1	ERN1_HUMAN	O75460	Serine/threonine-protein kinase/endoribonuclease IRE1	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+ERN2	ERN2_HUMAN	Q76MJ5	Serine/threonine-protein kinase/endoribonuclease IRE2	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+GAK	GAK_HUMAN	O14976	Cyclin-G-associated kinase(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+HASPIN	HASP_HUMAN	Q8TF76	Serine/threonine-protein kinase haspin(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. Haspin subfamily.
+IKBKB	IKKB_HUMAN	O14920	Inhibitor of nuclear factor kappa-B kinase subunit beta I-kappa-B-kinase beta (EC 2.7.11.10)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. I-kappa-B kinase subfamily.
+IKBKE	IKKE_HUMAN	Q14164	Inhibitor of nuclear factor kappa-B kinase subunit epsilon I-kappa-B kinase epsilon (EC 2.7.11.10)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. I-kappa-B kinase subfamily.
+MLKL	MLKL_HUMAN	Q8NB16	Mixed lineage kinase domain-like protein hMLKL 	Belongs to the protein kinase superfamily.
+MOS	MOS_HUMAN	P00540	Proto-oncogene serine/threonine-protein kinase mos(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+NRBP1	NRBP_HUMAN	Q9UHY1	Nuclear receptor-binding protein	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+NRBP2	NRBP2_HUMAN	Q9NSY0	Nuclear receptor-binding protein 2	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+PAN3	PAN3_HUMAN	Q58A45	PAN2-PAN3 deadenylation complex subunit PAN3	Belongs to the protein kinase superfamily. PAN3 family.
+PDIK1L	PDK1L_HUMAN	Q8N165	Serine/threonine-protein kinase PDIK1L(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+PEAK1	PEAK1_HUMAN	Q9H792	Inactive tyrosine-protein kinase PEAK1	Belongs to the protein kinase superfamily.
+PEAK3	PEAK3_HUMAN	Q6ZS72	Protein PEAK3	Belongs to the protein kinase superfamily.
+PIK3R4	PI3R4_HUMAN	Q99570	Phosphoinositide 3-kinase regulatory subunit 4 PI3-kinase regulatory subunit 4 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+PINK1	PINK1_HUMAN	Q9BXM7	Serine/threonine-protein kinase PINK1, mitochondrial(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+PKDCC	PKDCC_HUMAN	Q504Y2	Extracellular tyrosine-protein kinase PKDCC(EC 2.7.10.2)	Belongs to the protein kinase superfamily.
+PKMYT1	PMYT1_HUMAN	Q99640	Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. WEE1 subfamily.
+PLK1	PLK1_HUMAN	P53350	Serine/threonine-protein kinase PLK1(EC 2.7.11.21)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. CDC5/Polo subfamily.
+PLK2	PLK2_HUMAN	Q9NYY3	Serine/threonine-protein kinase PLK2(EC 2.7.11.21)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. CDC5/Polo subfamily.
+PLK3	PLK3_HUMAN	Q9H4B4	Serine/threonine-protein kinase PLK3(EC 2.7.11.21)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. CDC5/Polo subfamily.
+PLK4	PLK4_HUMAN	O00444	Serine/threonine-protein kinase PLK4(EC 2.7.11.21)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. CDC5/Polo subfamily.
+PLK5	PLK5_HUMAN	Q496M5	Inactive serine/threonine-protein kinase PLK5	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. CDC5/Polo subfamily.
+POMK	SG196_HUMAN	Q9H5K3	Protein O-mannose kinase POMK (EC 2.7.1.183)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. STKL subfamily.
+PRAG1	PRAG1_HUMAN	Q86YV5	Inactive tyrosine-protein kinase PRAG1	Belongs to the protein kinase superfamily.
+PXK	PXK_HUMAN	Q7Z7A4	PX domain-containing protein kinase-like protein	Belongs to the protein kinase superfamily.
+RNASEL	RN5A_HUMAN	Q05823	2-5A-dependent ribonuclease 2-5A-dependent RNase (EC 3.1.26.-)	Belongs to the protein kinase superfamily.
+RPS6KC1	KS6C1_HUMAN	Q96S38	Ribosomal protein S6 kinase delta-1 S6K-delta-1 (EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. S6 kinase subfamily.
+RPS6KL1	RPKL1_HUMAN	Q9Y6S9	Ribosomal protein S6 kinase-like 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. S6 kinase subfamily.
+RSKR	KS6R_HUMAN	Q96LW2	Ribosomal protein S6 kinase-related protein(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+SBK1	SBK1_HUMAN	Q52WX2	Serine/threonine-protein kinase SBK1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+SBK2	SBK2_HUMAN	P0C263	Serine/threonine-protein kinase SBK2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. STKL subfamily.
+SBK3	SBK3_HUMAN	P0C264	Uncharacterized serine/threonine-protein kinase SBK3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. STKL subfamily.
+SCYL1	SCYL1_HUMAN	Q96KG9	N-terminal kinase-like protein	Belongs to the protein kinase superfamily.
+SCYL2	SCYL2_HUMAN	Q6P3W7	SCY1-like protein 2	Belongs to the protein kinase superfamily.
+SCYL3	PACE1_HUMAN	Q8IZE3	Protein-associating with the carboxyl-terminal domain of ezrin	Belongs to the protein kinase superfamily.
+STK16	STK16_HUMAN	O75716	Serine/threonine-protein kinase 16(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+STK31	STK31_HUMAN	Q9BXU1	Serine/threonine-protein kinase 31(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+STK32A	ST32A_HUMAN	Q8WU08	Serine/threonine-protein kinase 32A(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+STK32B	ST32B_HUMAN	Q9NY57	Serine/threonine-protein kinase 32B(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+STK32C	ST32C_HUMAN	Q86UX6	Serine/threonine-protein kinase 32C(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+STK35	STK35_HUMAN	Q8TDR2	Serine/threonine-protein kinase 35(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+STK36	STK36_HUMAN	Q9NRP7	Serine/threonine-protein kinase 36(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+STKLD1	STKL1_HUMAN	Q8NE28	Serine/threonine kinase-like domain-containing protein STKLD1	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. STKL subfamily.
+TBCK	TBCK_HUMAN	Q8TEA7	TBC domain-containing protein kinase-like protein	Belongs to the protein kinase superfamily.
+TBK1	TBK1_HUMAN	Q9UHD2	Serine/threonine-protein kinase TBK1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. I-kappa-B kinase subfamily.
+TEX14	TEX14_HUMAN	Q8IWB6	Inactive serine/threonine-protein kinase TEX14	Belongs to the protein kinase superfamily.
+TLK1	TLK1_HUMAN	Q9UKI8	Serine/threonine-protein kinase tousled-like 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+TLK2	TLK2_HUMAN	Q86UE8	Serine/threonine-protein kinase tousled-like 2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+TP53RK	PRPK_HUMAN	Q96S44	EKC/KEOPS complex subunit TP53RK(EC 3.6.-.-)	Belongs to the protein kinase superfamily. BUD32 family.
+TTK	TTK_HUMAN	P33981	Dual specificity protein kinase TTK(EC 2.7.12.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+UHMK1	UHMK1_HUMAN	Q8TAS1	Serine/threonine-protein kinase Kist(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family.
+ULK1	ULK1_HUMAN	O75385	Serine/threonine-protein kinase ULK1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. APG1/unc-51/ULK1 subfamily.
+ULK2	ULK2_HUMAN	Q8IYT8	Serine/threonine-protein kinase ULK2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. APG1/unc-51/ULK1 subfamily.
+ULK3	ULK3_HUMAN	Q6PHR2	Serine/threonine-protein kinase ULK3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. APG1/unc-51/ULK1 subfamily.
+ULK4	ULK4_HUMAN	Q96C45	Serine/threonine-protein kinase ULK4(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. APG1/unc-51/ULK1 subfamily.
+WEE1	WEE1_HUMAN	P30291	Wee1-like protein kinase WEE1hu (EC 2.7.10.2)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. WEE1 subfamily.
+WEE2	WEE2_HUMAN	P0C1S8	Wee1-like protein kinase 2(EC 2.7.10.2)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. WEE1 subfamily.
+WNK1	WNK1_HUMAN	Q9H4A3	Serine/threonine-protein kinase WNK1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. WNK subfamily.
+WNK2	WNK2_HUMAN	Q9Y3S1	Serine/threonine-protein kinase WNK2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. WNK subfamily.
+WNK3	WNK3_HUMAN	Q9BYP7	Serine/threonine-protein kinase WNK3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. WNK subfamily.
+WNK4	WNK4_HUMAN	Q96J92	Serine/threonine-protein kinase WNK4(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. WNK subfamily.
+ADCK1	ADCK1_HUMAN	Q86TW2	AarF domain-containing protein kinase 1(EC 2.7.-.-)	Belongs to the protein kinase superfamily. ADCK protein kinase family.
+ADCK2	ADCK2_HUMAN	Q7Z695	Uncharacterized aarF domain-containing protein kinase 2(EC 2.7.11.-)	Belongs to the protein kinase superfamily. ADCK protein kinase family.
+ADCK5	ADCK5_HUMAN	Q3MIX3	Uncharacterized aarF domain-containing protein kinase 5(EC 2.7.11.-)	Belongs to the protein kinase superfamily. ADCK protein kinase family.
+COQ8A	COQ8A_HUMAN	Q8NI60	Atypical kinase COQ8A, mitochondrial(EC 2.7.-.-)	Belongs to the protein kinase superfamily. ADCK protein kinase family.
+COQ8B	COQ8B_HUMAN	Q96D53	Atypical kinase COQ8B, mitochondrial(EC 2.7.-.-)	Belongs to the protein kinase superfamily. ADCK protein kinase family.
+ALPK1	ALPK1_HUMAN	Q96QP1	Alpha-protein kinase 1(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Alpha-type protein kinase family. ALPK subfamily.
+ALPK2	ALPK2_HUMAN	Q86TB3	Alpha-protein kinase 2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Alpha-type protein kinase family. ALPK subfamily.
+ALPK3	ALPK3_HUMAN	Q96L96	Alpha-protein kinase 3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. Alpha-type protein kinase family. ALPK subfamily.
+EEF2K	EF2K_HUMAN	O00418	Eukaryotic elongation factor 2 kinase eEF-2 kinase (EC 2.7.11.20)	Belongs to the protein kinase superfamily. Alpha-type protein kinase family.
+TRPM6	TRPM6_HUMAN	Q9BX84	Transient receptor potential cation channel subfamily M member 6(EC 2.7.11.1)	In the C-terminal section; belongs to the protein kinase superfamily. Alpha-type protein kinase family. ALPK subfamily.
+TRPM7	TRPM7_HUMAN	Q96QT4	Transient receptor potential cation channel subfamily M member 7(EC 2.7.11.1)	In the C-terminal section; belongs to the protein kinase superfamily. Alpha-type protein kinase family. ALPK subfamily.
+FASTK	FASTK_HUMAN	Q14296	Fas-activated serine/threonine kinase FAST kinase (EC 2.7.11.8)	Belongs to the FAST protein kinase family.
+BCKDK	BCKD_HUMAN	O14874	[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial(EC 2.7.11.4)	Belongs to the PDK/BCKDK protein kinase family.
+PDK1	PDK1_HUMAN	Q15118	[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial(EC 2.7.11.2)	Belongs to the PDK/BCKDK protein kinase family.
+PDK2	PDK2_HUMAN	Q15119	[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial(EC 2.7.11.2)	Belongs to the PDK/BCKDK protein kinase family.
+PDK3	PDK3_HUMAN	Q15120	[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial(EC 2.7.11.2)	Belongs to the PDK/BCKDK protein kinase family.
+PDK4	PDK4_HUMAN	Q16654	[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial(EC 2.7.11.2)	Belongs to the PDK/BCKDK protein kinase family.
+ATM	ATM_HUMAN	Q13315	Serine-protein kinase ATM(EC 2.7.11.1)	Belongs to the PI3/PI4-kinase family. ATM subfamily.
+ATR	ATR_HUMAN	Q13535	Serine/threonine-protein kinase ATR(EC 2.7.11.1)	Belongs to the PI3/PI4-kinase family. ATM subfamily.
+MTOR	MTOR_HUMAN	P42345	Serine/threonine-protein kinase mTOR(EC 2.7.11.1)	Belongs to the PI3/PI4-kinase family.
+PIK3C2A	P3C2A_HUMAN	O00443	Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha PI3K-C2-alpha (EC 2.7.1.137) (EC 2.7.1.153) (EC 2.7.1.154)	Belongs to the PI3/PI4-kinase family.
+PIK3CA	PK3CA_HUMAN	P42336	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform PI3-kinase subunit alpha (EC 2.7.1.137) (EC 2.7.1.153)	Belongs to the PI3/PI4-kinase family.
+PIK3CB	PK3CB_HUMAN	P42338	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform PI3-kinase subunit beta (EC 2.7.1.153)	Belongs to the PI3/PI4-kinase family.
+PIK3CD	PK3CD_HUMAN	O00329	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform PI3-kinase subunit delta (EC 2.7.1.137) (EC 2.7.1.153)	Belongs to the PI3/PI4-kinase family.
+PIK3CG	PK3CG_HUMAN	P48736	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform PI3-kinase subunit gamma (EC 2.7.1.137) (EC 2.7.1.153) (EC 2.7.1.154)	Belongs to the PI3/PI4-kinase family.
+PRKDC	PRKDC_HUMAN	P78527	DNA-dependent protein kinase catalytic subunit DNA-PK catalytic subunit (EC 2.7.11.1)	Belongs to the PI3/PI4-kinase family.
+SMG1	SMG1_HUMAN	Q96Q15	Serine/threonine-protein kinase SMG1 SMG-1 (EC 2.7.11.1)	Belongs to the PI3/PI4-kinase family.
+RIOK1	RIOK1_HUMAN	Q9BRS2	Serine/threonine-protein kinase RIO1(EC 2.7.11.1) (EC 3.6.3.-)	Belongs to the protein kinase superfamily. RIO-type Ser/Thr kinase family.
+RIOK2	RIOK2_HUMAN	Q9BVS4	Serine/threonine-protein kinase RIO2(EC 2.7.11.1)	Belongs to the protein kinase superfamily. RIO-type Ser/Thr kinase family.
+RIOK3	RIOK3_HUMAN	O14730	Serine/threonine-protein kinase RIO3(EC 2.7.11.1)	Belongs to the protein kinase superfamily. RIO-type Ser/Thr kinase family.
