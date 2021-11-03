@@ -13,17 +13,10 @@ Kinases are a group of enzymes that enable the transfer of a phosphate group fro
 
 ![image](https://user-images.githubusercontent.com/59238194/140049233-f879a829-ad26-407a-a43d-9525beaee95f.png)
 
-<p align="center">
-  <img src="Kinase-Website/Software_Architecture.pdf">
-</p>
-
-![](Kinase-Website/Software_Architecture.pdf)
-
 
 [Software_Architecture.pdf](https://github.com/MuhammadAli-ai/Kinase-Website/files/7467023/Software_Architecture.pdf)
 
 
- 
 
 
 The software was developed using Flask as the main web development toolkit. Flask was chosen for it’s ease of use and simple functionality & how it connects the web framework & database queries written in Python to the web pages front end via the React library.
