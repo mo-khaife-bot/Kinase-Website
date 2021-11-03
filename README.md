@@ -31,5 +31,4 @@ The website makes use of APIs to key databases that store important information 
 - Omnipath (https://omnipathdb.org/) API  is connected to the UniProtKB/Swiss-Prot database and provides info about proteins and their interactions.
 
 # Software Architexture 
-
-     
+<img src="Software_Architecture.pdf">
