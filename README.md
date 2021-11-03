@@ -10,10 +10,10 @@ Kinases are a group of enzymes that enable the transfer of a phosphate group fro
 *(BellBrook Labs 2018)*
 
 # Software Architexture 
+<img src="Software_Architecture.pdf">
+
 The software was developed using Flask as the main web development toolkit. Flask was chosen for it’s ease of use and simple functionality & how it connects the web framework & database queries written in Python to the web pages front end via the React library.
 
-
-<img src="Software_Architecture.pdf">
 
 
 The front-end of the website is comprised of modern website technologies (JavaScript, HTML, CSS,REACT & Material-UI). IT was decided to utilise these modern front end technologies rather than Python and Bootstrap to give a more modern and sleek look to the website. Material-UI was essential to display information in tables and relevant tabs.
