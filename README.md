@@ -11,6 +11,8 @@ Kinases are a group of enzymes that enable the transfer of a phosphate group fro
 
 # Software Architexture 
 
+![image](https://user-images.githubusercontent.com/59238194/140049233-f879a829-ad26-407a-a43d-9525beaee95f.png)
+
 <p align="center">
   <img src="Kinase-Website/Software_Architecture.pdf">
 </p>
