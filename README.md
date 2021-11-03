@@ -1,4 +1,4 @@
-# Kinase-Website
+# ChemPhoPro Kinase-Website prototype 
 A prototype web-based software tool that allows users to explore background information about human protein kinases enzymes and the sites they phosphorylate.
 This web based resource is ideally for researchers and students to utilise and search information about Kinases. This website must have low hardware requirements and can be utilised by biologists with minimal to no coding or command line experience.
 
@@ -22,6 +22,14 @@ The website will contain key information about kinases that biologists would be 
 - The proteins the Kinase act on
 - Experimental Tissue samples that identify where Kinases act.
 
-The website makes sue of 
+Utilised the PKINFAM (https://www.uniprot.org/docs/pkinfam) document from Uniprot website(Modi & Dunbrack, 2019). As this information is stored from uniport
+   6
+it is updated regularly. 
+
+The website makes use of APIs to key databases that store important information about kinases
+- Uniprot (the Universal Protein Resource) ( https://www.uniprot.org ) enables access to a number of protein database via the identifyer i.e UniProtKB accession number (AC).
+- Omnipath (https://omnipathdb.org/) API  is connected to the UniProtKB/Swiss-Prot database and provides info about proteins and their interactions.
+
+# Software Architexture 
 
      
