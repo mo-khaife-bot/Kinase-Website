@@ -9,6 +9,16 @@ Kinases are a group of enzymes that enable the transfer of a phosphate group fro
 
 *(BellBrook Labs 2018)*
 
+# Software Architexture 
+The software was developed using Flask as the main web development toolkit. Flask was chosen for it’s ease of use and simple functionality & how it connects the web framework & database queries written in Python to the web pages front end via the React library.
+
+<img src="Software_Architecture.pdf">
+
+
+The front-end of the website is comprised of modern website technologies (JavaScript, HTML, CSS,REACT & Material-UI). IT was decided to utilise these modern front end technologies rather than Python and Bootstrap to give a more modern and sleek look to the website. Material-UI was essential to display information in tables and relevant tabs.
+
+Plotly JavaScript is a popular graphing library that was used to visualise the foldchange values in bar graph form as well as Heatmap to show effects of inhibitors on phosphosites in the different tissue samples.
+
 # Why are kinases important?
 This process of phosphorylation (via Kinase enzyme) and it’s counterpart de-phosphorylation (via Phosphatase enzyme) enables the cell to regulate important physiological responses to both intracellular and extracellular signals.
 
@@ -20,7 +30,8 @@ The website will contain key information about kinases that biologists would be 
 - Name of Kinases
 - Their respective inhibitors
 - The proteins the Kinase act on
-- Experimental Tissue samples that identify where Kinases act.
+- Experimental phosphoproteome data of three different cell lines (HL60, MCF7, NTERA2) tissue samples that identify where Kinases act.
+*This information was provided by Professor Conrad one of the researchers with Hijazi et al, 2020.*
 
 Utilised the PKINFAM (https://www.uniprot.org/docs/pkinfam) document from Uniprot website(Modi & Dunbrack, 2019). As this information is stored from uniport
    6
@@ -30,5 +41,7 @@ The website makes use of APIs to key databases that store important information 
 - Uniprot (the Universal Protein Resource) ( https://www.uniprot.org ) enables access to a number of protein database via the identifyer i.e UniProtKB accession number (AC).
 - Omnipath (https://omnipathdb.org/) API  is connected to the UniProtKB/Swiss-Prot database and provides info about proteins and their interactions.
 
-# Software Architexture 
-<img src="Software_Architecture.pdf">
+# How to sue the website
+There is only 1 query feature for the website where in the homepage individuals can type the name of the kinase into the search bar and once they type a minimum of 2 characters there will be a drop down list of kinases that match those kinases. As individuals type more this will limit the number of kinases that match those characters. Typically typing 3 or 4 characters will display the kinase of choice.
+
+
